@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34723.18
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Decorator", "Decorator\Decorator.csproj", "{CDCC6FC2-3A4D-4D35-BF2B-D5C142B68B9B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Decorator", "Decorator\Decorator.csproj", "{CDCC6FC2-3A4D-4D35-BF2B-D5C142B68B9B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Factory-method", "Factory-method\Factory-method.csproj", "{71CFD3BE-F7B1-4EA0-B16E-462E02BF4CF9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{CDCC6FC2-3A4D-4D35-BF2B-D5C142B68B9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CDCC6FC2-3A4D-4D35-BF2B-D5C142B68B9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CDCC6FC2-3A4D-4D35-BF2B-D5C142B68B9B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{71CFD3BE-F7B1-4EA0-B16E-462E02BF4CF9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71CFD3BE-F7B1-4EA0-B16E-462E02BF4CF9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71CFD3BE-F7B1-4EA0-B16E-462E02BF4CF9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71CFD3BE-F7B1-4EA0-B16E-462E02BF4CF9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
